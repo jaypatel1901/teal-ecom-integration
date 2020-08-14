@@ -38,7 +38,6 @@ const NewForm = () => {
                     <Card>
                     <TittleHeader>Media</TittleHeader>
 
-//                         <StyledDropZone name='file' ></StyledDropZone>
                     </Card>
                     <PricingContent style={{ marginBottom: "20px" }}>
                         <Card>

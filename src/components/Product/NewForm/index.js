@@ -10,8 +10,8 @@ const { Search } = Input;
 const { Option } = Select;
 const { TextArea } = Input;
 
-import { StyledDropZone } from 'react-drop-zone'
-import 'react-drop-zone/dist/styles.css'
+// import { StyledDropZone } from 'react-drop-zone'
+// import 'react-drop-zone/dist/styles.css'
 // import { Editor } from 'react-draft-wysiwyg';
 // import 'react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
 // import dynamic from "next/dynamic";
@@ -38,7 +38,7 @@ const NewForm = () => {
                     <Card>
                     <TittleHeader>Media</TittleHeader>
 
-                        <StyledDropZone name='file' ></StyledDropZone>
+//                         <StyledDropZone name='file' ></StyledDropZone>
                     </Card>
                     <PricingContent style={{ marginBottom: "20px" }}>
                         <Card>
